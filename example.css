@@ -1,0 +1,23 @@
+body {
+    /* background: #222; */
+    min-height: 100vh;
+}
+
+.sidebar {
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    background-color: #967070;
+}
+
+.topbar { 
+    display: flex;
+    height: 30px;
+    background-color: #a35656;
+    justify-content: space-between;
+
+}
+
+.wide {
+    /* flex-grow: 2; */
+}
